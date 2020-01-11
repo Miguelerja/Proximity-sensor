@@ -1,0 +1,11 @@
+{
+  "name": "ultrosonic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Miguelerja <miguelerja@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^1.4.0",
+    "nodebots-interchange": "^2.0.0"
+  }
+}
