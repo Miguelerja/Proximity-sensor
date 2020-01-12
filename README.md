@@ -17,4 +17,4 @@ To run the program you will need node and enough hardware to build the attached 
 * Jumper wires
 * Arduino like board and USB cable
 
-[Circuit Diagram]Circuit.png)
+[Circuit Diagram](Circuit.png)
